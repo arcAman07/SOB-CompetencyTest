@@ -19,7 +19,7 @@ https://drive.google.com/file/d/1FwBVCRbB6LsmwyKpnSzUB0H_GFGkT2uw/view?usp=shari
 
 Then:
 
-Count the number of nodes, channels and total capacity in the network. 
+Count the number of nodes, channels and total capacity in the network. <br>
 Calculate the total capacity of all nodes with more than 50 channels and 1 BTC in capacity. <br>
 Calculate the median outgoing fee for each node of the top 300 nodes ranked by total capacity. <br>
 Calculate the median incoming fee for each node of the top 300 nodes ranked by total capacity. <br>

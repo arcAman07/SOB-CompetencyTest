@@ -11,7 +11,7 @@ We’re developing a capital management system for routing nodes named Torq. An 
 1) One or more exploratory research projects that produce new insight useful to routing nodes and users of Torq. <br>
 2) If the findings suggest that some sort of automation can help users, then a proof of concept can be developed using Python, Typescript or Go. <br>
 3) (optional) Implement a successful proof of concept into Torq. <br>
-Write one or more short articles that explain the process and findings for each project. <br>
+4) Write one or more short articles that explain the process and findings for each project. <br>
 
 # Skills Required: 
 

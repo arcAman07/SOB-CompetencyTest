@@ -20,8 +20,8 @@ https://drive.google.com/file/d/1FwBVCRbB6LsmwyKpnSzUB0H_GFGkT2uw/view?usp=shari
 Then:
 
 Count the number of nodes, channels and total capacity in the network. 
-Calculate the total capacity of all nodes with more than 50 channels and 1 BTC in capacity.
-Calculate the median outgoing fee for each node of the top 300 nodes ranked by total capacity.
-Calculate the median incoming fee for each node of the top 300 nodes ranked by total capacity.
-(optional) Bonus points if you also calculate the average fee weighted by channel size/capacity for the two tasks above.
-Write a short summary of the results from the tasks above. Optionally dig a bit deeper into the data to add more context to your summary.
+Calculate the total capacity of all nodes with more than 50 channels and 1 BTC in capacity. <br>
+Calculate the median outgoing fee for each node of the top 300 nodes ranked by total capacity. <br>
+Calculate the median incoming fee for each node of the top 300 nodes ranked by total capacity. <br>
+(optional) Bonus points if you also calculate the average fee weighted by channel size/capacity for the two tasks above. <br>
+Write a short summary of the results from the tasks above. Optionally dig a bit deeper into the data to add more context to your summary. <br>

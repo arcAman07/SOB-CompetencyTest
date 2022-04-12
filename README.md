@@ -15,8 +15,8 @@ Write one or more short articles that explain the process and findings for each 
 
 # Skills Required: 
 
-Python <br>
-Jupyter, Pandas or experience with similar tools in Python. <br>
+1) Python <br>
+2) Jupyter, Pandas or experience with similar tools in Python. <br>
 Basic analytical skills and some experience cleaning and wrangling data into useful features. <br>
 
 # Competency Test:

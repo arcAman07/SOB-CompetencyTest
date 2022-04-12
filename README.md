@@ -17,7 +17,7 @@ Write one or more short articles that explain the process and findings for each 
 
 1) Python <br>
 2) Jupyter, Pandas or experience with similar tools in Python. <br>
-Basic analytical skills and some experience cleaning and wrangling data into useful features. <br>
+3) Basic analytical skills and some experience cleaning and wrangling data into useful features. <br>
 
 # Competency Test:
 Produce a Jupyter Notebook that loads the channel graph exported by LND into a Pandas dataframe or a Graph tool.
